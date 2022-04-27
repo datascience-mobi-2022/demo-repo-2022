@@ -2,4 +2,3 @@
 
 This is a demo  of Github
 
-User 2 made another change
